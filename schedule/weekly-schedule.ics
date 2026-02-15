@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AI Self-Improvement System//hu-claude//
+X-WR-CALNAME:Программа самосовершенствования
+BEGIN:VEVENT
+SUMMARY:Гид медитации: Утренняя медитация о
+ сознанности
+DTSTART;TZID=Asia/Tokyo:20260216T080000
+DTEND;TZID=Asia/Tokyo:20260216T083000
+DESCRIPTION:Специалист: Гид медитации\nТема: У
+ тренняя медитация осознанности\nСтатус: 
+ planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Психолог: Еженедельная сессия: теку
+ щее состояние
+DTSTART;TZID=Asia/Tokyo:20260216T100000
+DTEND;TZID=Asia/Tokyo:20260216T110000
+DESCRIPTION:Специалист: Психолог\nТема: Еженед
+ ельная сессия: текущее состояние\nСтатус
+ : planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Коуч по лидерству: Стратегическое п
+ ланирование недели
+DTSTART;TZID=Asia/Tokyo:20260216T140000
+DTEND;TZID=Asia/Tokyo:20260216T144500
+DESCRIPTION:Специалист: Коуч по лидерству\nТем
+ а: Стратегическое планирование недели\nС
+ татус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инструктор йоги: Вечерняя расслабля
+ ющая йога
+DTSTART;TZID=Asia/Tokyo:20260216T190000
+DTEND;TZID=Asia/Tokyo:20260216T193000
+DESCRIPTION:Специалист: Инструктор йоги\nТема:
+  Вечерняя расслабляющая йога\nСтатус: plann
+ ed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Тренер по фитнесу: Силовая трениров
+ ка
+DTSTART;TZID=Asia/Tokyo:20260217T073000
+DTEND;TZID=Asia/Tokyo:20260217T083000
+DESCRIPTION:Специалист: Тренер по фитнесу\nТем
+ а: Силовая тренировка\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Нутрициолог: Обзор питания\, коррект
+ ировка рациона
+DTSTART;TZID=Asia/Tokyo:20260217T100000
+DTEND;TZID=Asia/Tokyo:20260217T104500
+DESCRIPTION:Специалист: Нутрициолог\nТема: Обз
+ ор питания\, корректировка рациона\nСтат
+ ус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Психотерапевт: Глубинная проработк
+ а (КПТ/гештальт)
+DTSTART;TZID=Asia/Tokyo:20260217T130000
+DTEND;TZID=Asia/Tokyo:20260217T140000
+DESCRIPTION:Специалист: Психотерапевт\nТема: Г
+ лубинная проработка (КПТ/гештальт)\nСтат
+ ус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гид медитации: Дыхательные практики
+  перед сном
+DTSTART;TZID=Asia/Tokyo:20260217T180000
+DTEND;TZID=Asia/Tokyo:20260217T182000
+DESCRIPTION:Специалист: Гид медитации\nТема: Д
+ ыхательные практики перед сном\nСтатус: p
+ lanned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гид медитации: Медитация на фокусир
+ овку
+DTSTART;TZID=Asia/Tokyo:20260218T080000
+DTEND;TZID=Asia/Tokyo:20260218T083000
+DESCRIPTION:Специалист: Гид медитации\nТема: М
+ едитация на фокусировку\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:career-consultant: Карьерная стратегия и раз
+ витие
+DTSTART;TZID=Asia/Tokyo:20260218T100000
+DTEND;TZID=Asia/Tokyo:20260218T110000
+DESCRIPTION:Специалист: career-consultant\nТема: Карье
+ рная стратегия и развитие\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:business-trainer: Навыки лидерства / перегов
+ оры
+DTSTART;TZID=Asia/Tokyo:20260218T120000
+DTEND;TZID=Asia/Tokyo:20260218T130000
+DESCRIPTION:Специалист: business-trainer\nТема: Навыки
+  лидерства / переговоры\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лайф-коуч: Баланс работа-жизнь\, ценн
+ ости
+DTSTART;TZID=Asia/Tokyo:20260218T140000
+DTEND;TZID=Asia/Tokyo:20260218T144500
+DESCRIPTION:Специалист: Лайф-коуч\nТема: Балан
+ с работа-жизнь\, ценности\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инструктор йоги: Йога для спины и ше
+ и (офисная)
+DTSTART;TZID=Asia/Tokyo:20260218T190000
+DTEND;TZID=Asia/Tokyo:20260218T193000
+DESCRIPTION:Специалист: Инструктор йоги\nТема:
+  Йога для спины и шеи (офисная)\nСтатус: plan
+ ned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:personal-growth-trainer: Работа с ограничивающ
+ ими убеждениями
+DTSTART;TZID=Asia/Tokyo:20260219T080000
+DTEND;TZID=Asia/Tokyo:20260219T090000
+DESCRIPTION:Специалист: personal-growth-trainer\nТема: Ра
+ бота с ограничивающими убеждениями\nСта
+ тус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:nlp-practitioner: Техники NLP: якорение / рефр
+ ейминг
+DTSTART;TZID=Asia/Tokyo:20260219T093000
+DTEND;TZID=Asia/Tokyo:20260219T101500
+DESCRIPTION:Специалист: nlp-practitioner\nТема: Техник
+ и NLP: якорение / рефрейминг\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:mentor: Менторская сессия: долгосрочно
+ е видение
+DTSTART;TZID=Asia/Tokyo:20260219T120000
+DTEND;TZID=Asia/Tokyo:20260219T130000
+DESCRIPTION:Специалист: mentor\nТема: Менторская 
+ сессия: долгосрочное видение\nСтатус: plann
+ ed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Тренер по фитнесу: Кардио / функцион
+ альная тренировка
+DTSTART;TZID=Asia/Tokyo:20260219T143000
+DTEND;TZID=Asia/Tokyo:20260219T153000
+DESCRIPTION:Специалист: Тренер по фитнесу\nТем
+ а: Кардио / функциональная тренировка\nСт
+ атус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:hypnologist: Гипно-релаксация для восстан
+ овления
+DTSTART;TZID=Asia/Tokyo:20260219T180000
+DTEND;TZID=Asia/Tokyo:20260219T183000
+DESCRIPTION:Специалист: hypnologist\nТема: Гипно-рел
+ аксация для восстановления\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гид медитации: Медитация благодарно
+ сти
+DTSTART;TZID=Asia/Tokyo:20260220T080000
+DTEND;TZID=Asia/Tokyo:20260220T083000
+DESCRIPTION:Специалист: Гид медитации\nТема: М
+ едитация благодарности\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:psychosomatologist: Связь тело-разум\, зажимы
+DTSTART;TZID=Asia/Tokyo:20260220T100000
+DTEND;TZID=Asia/Tokyo:20260220T110000
+DESCRIPTION:Специалист: psychosomatologist\nТема: Связь
+  тело-разум\, зажимы\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:sexologist: Отношения и близость
+DTSTART;TZID=Asia/Tokyo:20260220T120000
+DTEND;TZID=Asia/Tokyo:20260220T124500
+DESCRIPTION:Специалист: sexologist\nТема: Отношения
+  и близость\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:lifestyle-consultant: Привычки\, среда\, распор
+ ядок дня
+DTSTART;TZID=Asia/Tokyo:20260220T133000
+DTEND;TZID=Asia/Tokyo:20260220T141500
+DESCRIPTION:Специалист: lifestyle-consultant\nТема: Прив
+ ычки\, среда\, распорядок дня\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инструктор йоги: Восстановительная 
+ йога (инь)
+DTSTART;TZID=Asia/Tokyo:20260220T160000
+DTEND;TZID=Asia/Tokyo:20260220T163000
+DESCRIPTION:Специалист: Инструктор йоги\nТема:
+  Восстановительная йога (инь)\nСтатус: plann
+ ed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Духовный гид: Духовные практики и ре
+ флексия
+DTSTART;TZID=Asia/Tokyo:20260221T090000
+DTEND;TZID=Asia/Tokyo:20260221T094500
+DESCRIPTION:Специалист: Духовный гид\nТема: Ду
+ ховные практики и рефлексия\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:dietitian: Meal-prep план на неделю
+DTSTART;TZID=Asia/Tokyo:20260221T103000
+DTEND;TZID=Asia/Tokyo:20260221T113000
+DESCRIPTION:Специалист: dietitian\nТема: Meal-prep план 
+ на неделю\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:astro-psychologist: Астро-анализ текущего пе
+ риода
+DTSTART;TZID=Asia/Tokyo:20260221T123000
+DTEND;TZID=Asia/Tokyo:20260221T131500
+DESCRIPTION:Специалист: astro-psychologist\nТема: Астро
+ -анализ текущего периода\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:career-orientation: Профориентация: сильные 
+ стороны
+DTSTART;TZID=Asia/Tokyo:20260221T140000
+DTEND;TZID=Asia/Tokyo:20260221T144500
+DESCRIPTION:Специалист: career-orientation\nТема: Профо
+ риентация: сильные стороны\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Тренер по фитнесу: Активный отдых / р
+ астяжка
+DTSTART;TZID=Asia/Tokyo:20260221T160000
+DTEND;TZID=Asia/Tokyo:20260221T170000
+DESCRIPTION:Специалист: Тренер по фитнесу\nТем
+ а: Активный отдых / растяжка\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Гид медитации: Длинная медитация (ви
+ зуализация будущего)
+DTSTART;TZID=Asia/Tokyo:20260222T090000
+DTEND;TZID=Asia/Tokyo:20260222T094500
+DESCRIPTION:Специалист: Гид медитации\nТема: Д
+ линная медитация (визуализация будущего
+ )\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:tarot-consultant: Расклад на неделю — рефле
+ ксия
+DTSTART;TZID=Asia/Tokyo:20260222T103000
+DTEND;TZID=Asia/Tokyo:20260222T110000
+DESCRIPTION:Специалист: tarot-consultant\nТема: Раскла
+ д на неделю — рефлексия\nСтатус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:weekly-review: Еженедельный обзор: что сде
+ лано\, что дальше
+DTSTART;TZID=Asia/Tokyo:20260222T123000
+DTEND;TZID=Asia/Tokyo:20260222T133000
+DESCRIPTION:Специалист: weekly-review\nТема: Еженеде
+ льный обзор: что сделано\, что дальше\nСта
+ тус: planned
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Инструктор йоги: Йога-нидра для глуб
+ окого отдыха
+DTSTART;TZID=Asia/Tokyo:20260222T160000
+DTEND;TZID=Asia/Tokyo:20260222T163000
+DESCRIPTION:Специалист: Инструктор йоги\nТема:
+  Йога-нидра для глубокого отдыха\nСтатус:
+  planned
+END:VEVENT
+END:VCALENDAR

@@ -1,269 +1,218 @@
-# Еженедельное расписание занятий по самосовершенствованию
-# ========================================================
-# Редактируйте этот файл или используйте /schedule для управления
-#
-# Формат слота:
-#   - time: "HH:MM"
-#     duration: 60          # минут
-#     specialist: "имя-skill"
-#     topic: "тема занятия"
-#     status: planned|done|skipped|moved
-#     notes: "заметки"
-
 meta:
-  owner: "takuoka"
-  timezone: "Asia/Tokyo"   # измените на свой часовой пояс
-  start_date: "2026-02-16" # понедельник начала текущей недели
+  owner: user
+  timezone: Asia/Tokyo
+  start_date: '2026-02-16'
   week_number: 1
-
-# ─── ПОНЕДЕЛЬНИК ─────────────────────────────────────────
 monday:
-  theme: "Разум и стратегия"
+  theme: Разум и стратегия
   slots:
-    - time: "08:00"
-      duration: 30
-      specialist: meditation-guide
-      topic: "Утренняя медитация осознанности"
-      status: planned
-      notes: ""
-
-    - time: "10:00"
-      duration: 60
-      specialist: psychologist
-      topic: "Еженедельная сессия: текущее состояние"
-      status: planned
-      notes: ""
-
-    - time: "14:00"
-      duration: 45
-      specialist: executive-coach
-      topic: "Стратегическое планирование недели"
-      status: planned
-      notes: ""
-
-    - time: "19:00"
-      duration: 30
-      specialist: yoga-instructor
-      topic: "Вечерняя расслабляющая йога"
-      status: planned
-      notes: ""
-
-# ─── ВТОРНИК ─────────────────────────────────────────────
+  - time: 08:00
+    duration: 30
+    specialist: meditation-guide
+    topic: Утренняя медитация осознанности
+    status: planned
+    notes: ''
+  - time: '10:00'
+    duration: 60
+    specialist: psychologist
+    topic: 'Еженедельная сессия: текущее состояние'
+    status: planned
+    notes: ''
+  - time: '14:00'
+    duration: 45
+    specialist: executive-coach
+    topic: Стратегическое планирование недели
+    status: planned
+    notes: ''
+  - time: '19:00'
+    duration: 30
+    specialist: yoga-instructor
+    topic: Вечерняя расслабляющая йога
+    status: planned
+    notes: ''
 tuesday:
-  theme: "Тело и энергия"
+  theme: Тело и энергия
   slots:
-    - time: "07:00"
-      duration: 60
-      specialist: fitness-trainer
-      topic: "Силовая тренировка"
-      status: planned
-      notes: ""
-
-    - time: "10:00"
-      duration: 45
-      specialist: nutritionist
-      topic: "Обзор питания, корректировка рациона"
-      status: planned
-      notes: ""
-
-    - time: "15:00"
-      duration: 60
-      specialist: psychotherapist
-      topic: "Глубинная проработка (КПТ/гештальт)"
-      status: planned
-      notes: ""
-
-    - time: "20:00"
-      duration: 20
-      specialist: meditation-guide
-      topic: "Дыхательные практики перед сном"
-      status: planned
-      notes: ""
-
-# ─── СРЕДА ───────────────────────────────────────────────
+  - time: 07:30
+    duration: 60
+    specialist: fitness-trainer
+    topic: Силовая тренировка
+    status: planned
+    notes: ''
+  - time: '10:00'
+    duration: 45
+    specialist: nutritionist
+    topic: Обзор питания, корректировка рациона
+    status: planned
+    notes: ''
+  - time: '13:00'
+    duration: 60
+    specialist: psychotherapist
+    topic: Глубинная проработка (КПТ/гештальт)
+    status: planned
+    notes: ''
+  - time: '18:00'
+    duration: 20
+    specialist: meditation-guide
+    topic: Дыхательные практики перед сном
+    status: planned
+    notes: ''
 wednesday:
-  theme: "Карьера и рост"
+  theme: Карьера и рост
   slots:
-    - time: "08:00"
-      duration: 30
-      specialist: meditation-guide
-      topic: "Медитация на фокусировку"
-      status: planned
-      notes: ""
-
-    - time: "10:00"
-      duration: 60
-      specialist: career-consultant
-      topic: "Карьерная стратегия и развитие"
-      status: planned
-      notes: ""
-
-    - time: "13:00"
-      duration: 60
-      specialist: business-trainer
-      topic: "Навыки лидерства / переговоры"
-      status: planned
-      notes: ""
-
-    - time: "16:00"
-      duration: 45
-      specialist: life-coach
-      topic: "Баланс работа-жизнь, ценности"
-      status: planned
-      notes: ""
-
-    - time: "19:00"
-      duration: 30
-      specialist: yoga-instructor
-      topic: "Йога для спины и шеи (офисная)"
-      status: planned
-      notes: ""
-
-# ─── ЧЕТВЕРГ ─────────────────────────────────────────────
+  - time: 08:00
+    duration: 30
+    specialist: meditation-guide
+    topic: Медитация на фокусировку
+    status: planned
+    notes: ''
+  - time: '10:00'
+    duration: 60
+    specialist: career-consultant
+    topic: Карьерная стратегия и развитие
+    status: planned
+    notes: ''
+  - time: '12:00'
+    duration: 60
+    specialist: business-trainer
+    topic: Навыки лидерства / переговоры
+    status: planned
+    notes: ''
+  - time: '14:00'
+    duration: 45
+    specialist: life-coach
+    topic: Баланс работа-жизнь, ценности
+    status: planned
+    notes: ''
+  - time: '19:00'
+    duration: 30
+    specialist: yoga-instructor
+    topic: Йога для спины и шеи (офисная)
+    status: planned
+    notes: ''
 thursday:
-  theme: "Глубокая работа"
+  theme: Глубокая работа
   slots:
-    - time: "08:00"
-      duration: 60
-      specialist: personal-growth-trainer
-      topic: "Работа с ограничивающими убеждениями"
-      status: planned
-      notes: ""
-
-    - time: "10:30"
-      duration: 45
-      specialist: nlp-practitioner
-      topic: "Техники NLP: якорение / рефрейминг"
-      status: planned
-      notes: ""
-
-    - time: "14:00"
-      duration: 60
-      specialist: mentor
-      topic: "Менторская сессия: долгосрочное видение"
-      status: planned
-      notes: ""
-
-    - time: "17:00"
-      duration: 60
-      specialist: fitness-trainer
-      topic: "Кардио / функциональная тренировка"
-      status: planned
-      notes: ""
-
-    - time: "20:00"
-      duration: 30
-      specialist: hypnologist
-      topic: "Гипно-релаксация для восстановления"
-      status: planned
-      notes: ""
-
-# ─── ПЯТНИЦА ─────────────────────────────────────────────
+  - time: 08:00
+    duration: 60
+    specialist: personal-growth-trainer
+    topic: Работа с ограничивающими убеждениями
+    status: planned
+    notes: ''
+  - time: 09:30
+    duration: 45
+    specialist: nlp-practitioner
+    topic: 'Техники NLP: якорение / рефрейминг'
+    status: planned
+    notes: ''
+  - time: '12:00'
+    duration: 60
+    specialist: mentor
+    topic: 'Менторская сессия: долгосрочное видение'
+    status: planned
+    notes: ''
+  - time: '14:30'
+    duration: 60
+    specialist: fitness-trainer
+    topic: Кардио / функциональная тренировка
+    status: planned
+    notes: ''
+  - time: '18:00'
+    duration: 30
+    specialist: hypnologist
+    topic: Гипно-релаксация для восстановления
+    status: planned
+    notes: ''
 friday:
-  theme: "Интеграция и отношения"
+  theme: Интеграция и отношения
   slots:
-    - time: "08:00"
-      duration: 30
-      specialist: meditation-guide
-      topic: "Медитация благодарности"
-      status: planned
-      notes: ""
-
-    - time: "10:00"
-      duration: 60
-      specialist: psychosomatologist
-      topic: "Связь тело-разум, зажимы"
-      status: planned
-      notes: ""
-
-    - time: "13:00"
-      duration: 45
-      specialist: sexologist
-      topic: "Отношения и близость"
-      status: planned
-      notes: ""
-
-    - time: "15:00"
-      duration: 45
-      specialist: lifestyle-consultant
-      topic: "Привычки, среда, распорядок дня"
-      status: planned
-      notes: ""
-
-    - time: "18:00"
-      duration: 30
-      specialist: yoga-instructor
-      topic: "Восстановительная йога (инь)"
-      status: planned
-      notes: ""
-
-# ─── СУББОТА ─────────────────────────────────────────────
+  - time: 08:00
+    duration: 30
+    specialist: meditation-guide
+    topic: Медитация благодарности
+    status: planned
+    notes: ''
+  - time: '10:00'
+    duration: 60
+    specialist: psychosomatologist
+    topic: Связь тело-разум, зажимы
+    status: planned
+    notes: ''
+  - time: '12:00'
+    duration: 45
+    specialist: sexologist
+    topic: Отношения и близость
+    status: planned
+    notes: ''
+  - time: '13:30'
+    duration: 45
+    specialist: lifestyle-consultant
+    topic: Привычки, среда, распорядок дня
+    status: planned
+    notes: ''
+  - time: '16:00'
+    duration: 30
+    specialist: yoga-instructor
+    topic: Восстановительная йога (инь)
+    status: planned
+    notes: ''
 saturday:
-  theme: "Исследование и вдохновение"
+  theme: Исследование и вдохновение
   slots:
-    - time: "09:00"
-      duration: 45
-      specialist: spiritual-guide
-      topic: "Духовные практики и рефлексия"
-      status: planned
-      notes: ""
-
-    - time: "11:00"
-      duration: 60
-      specialist: dietitian
-      topic: "Meal-prep план на неделю"
-      status: planned
-      notes: ""
-
-    - time: "14:00"
-      duration: 45
-      specialist: astro-psychologist
-      topic: "Астро-анализ текущего периода"
-      status: planned
-      notes: ""
-
-    - time: "16:00"
-      duration: 45
-      specialist: career-orientation
-      topic: "Профориентация: сильные стороны"
-      status: planned
-      notes: ""
-
-    - time: "18:00"
-      duration: 60
-      specialist: fitness-trainer
-      topic: "Активный отдых / растяжка"
-      status: planned
-      notes: ""
-
-# ─── ВОСКРЕСЕНЬЕ ─────────────────────────────────────────
+  - time: 09:00
+    duration: 45
+    specialist: spiritual-guide
+    topic: Духовные практики и рефлексия
+    status: planned
+    notes: ''
+  - time: '10:30'
+    duration: 60
+    specialist: dietitian
+    topic: Meal-prep план на неделю
+    status: planned
+    notes: ''
+  - time: '12:30'
+    duration: 45
+    specialist: astro-psychologist
+    topic: Астро-анализ текущего периода
+    status: planned
+    notes: ''
+  - time: '14:00'
+    duration: 45
+    specialist: career-orientation
+    topic: 'Профориентация: сильные стороны'
+    status: planned
+    notes: ''
+  - time: '16:00'
+    duration: 60
+    specialist: fitness-trainer
+    topic: Активный отдых / растяжка
+    status: planned
+    notes: ''
 sunday:
-  theme: "Обзор и восстановление"
+  theme: Обзор и восстановление
   slots:
-    - time: "09:00"
-      duration: 45
-      specialist: meditation-guide
-      topic: "Длинная медитация (визуализация будущего)"
-      status: planned
-      notes: ""
-
-    - time: "11:00"
-      duration: 30
-      specialist: tarot-consultant
-      topic: "Расклад на неделю — рефлексия"
-      status: planned
-      notes: ""
-
-    - time: "14:00"
-      duration: 60
-      specialist: weekly-review
-      topic: "Еженедельный обзор: что сделано, что дальше"
-      status: planned
-      notes: ""
-
-    - time: "19:00"
-      duration: 30
-      specialist: yoga-instructor
-      topic: "Йога-нидра для глубокого отдыха"
-      status: planned
-      notes: ""
+  - time: 09:00
+    duration: 45
+    specialist: meditation-guide
+    topic: Длинная медитация (визуализация будущего)
+    status: planned
+    notes: ''
+  - time: '10:30'
+    duration: 30
+    specialist: tarot-consultant
+    topic: Расклад на неделю — рефлексия
+    status: planned
+    notes: ''
+  - time: '12:30'
+    duration: 60
+    specialist: weekly-review
+    topic: 'Еженедельный обзор: что сделано, что дальше'
+    status: planned
+    notes: ''
+  - time: '16:00'
+    duration: 30
+    specialist: yoga-instructor
+    topic: Йога-нидра для глубокого отдыха
+    status: planned
+    notes: ''
