@@ -1,0 +1,2047 @@
+meta:
+  owner: user
+  timezone: Europe/Kiev
+  start_date: '2026-02-16'
+  num_weeks: 8
+  generated_at: '2026-02-15 12:40:56'
+weeks:
+- week_number: 1
+  start_date: '2026-02-16'
+  days:
+    monday:
+      date: '2026-02-16'
+      theme: Разум и стратегия
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Основы осознанности
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychologist
+        topic: Знакомство и диагностика состояния
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: executive-coach
+        topic: Аудит текущей ситуации
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Вечерняя расслабляющая йога
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+    tuesday:
+      date: '2026-02-17'
+      theme: Тело и энергия
+      slots:
+      - time: 07:30
+        duration: 60
+        specialist: fitness-trainer
+        topic: Оценка физической формы
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 45
+        specialist: nutritionist
+        topic: Обзор питания, корректировка рациона
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '13:00'
+        duration: 60
+        specialist: psychotherapist
+        topic: Глубинная проработка
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 20
+        specialist: meditation-guide
+        topic: Основы осознанности
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+    wednesday:
+      date: '2026-02-18'
+      theme: Карьера и рост
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Основы осознанности
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: career-consultant
+        topic: Карьерная стратегия
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: business-trainer
+        topic: Навыки лидерства
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: life-coach
+        topic: Колесо жизненного баланса
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога для спины
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+    thursday:
+      date: '2026-02-19'
+      theme: Глубокая работа
+      slots:
+      - time: 08:00
+        duration: 60
+        specialist: personal-growth-trainer
+        topic: Работа с убеждениями
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: 09:30
+        duration: 45
+        specialist: nlp-practitioner
+        topic: Техники NLP
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: mentor
+        topic: Менторская сессия
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '14:30'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Оценка физической формы
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 30
+        specialist: hypnologist
+        topic: Гипно-релаксация
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+    friday:
+      date: '2026-02-20'
+      theme: Интеграция и отношения
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Основы осознанности
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychosomatologist
+        topic: Связь тело-разум
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 45
+        specialist: sexologist
+        topic: Отношения и близость
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '13:30'
+        duration: 45
+        specialist: lifestyle-consultant
+        topic: Привычки и среда
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Инь-йога
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+    saturday:
+      date: '2026-02-21'
+      theme: Исследование и вдохновение
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: spiritual-guide
+        topic: Духовные практики
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 60
+        specialist: dietitian
+        topic: Meal-prep план
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 45
+        specialist: astro-psychologist
+        topic: Астро-анализ
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: career-orientation
+        topic: Профориентация
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Оценка физической формы
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+    sunday:
+      date: '2026-02-22'
+      theme: Обзор и восстановление
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: meditation-guide
+        topic: Основы осознанности
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 30
+        specialist: tarot-consultant
+        topic: Расклад на неделю
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 60
+        specialist: weekly-review
+        topic: Еженедельный обзор
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога-нидра
+        week_context: Неделя 1
+        status: planned
+        notes: ''
+- week_number: 2
+  start_date: '2026-02-23'
+  days:
+    monday:
+      date: '2026-02-23'
+      theme: Разум и стратегия
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Работа с дыханием
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychologist
+        topic: Работа с эмоциями и стрессом
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: executive-coach
+        topic: Определение целей и приоритетов
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Вечерняя расслабляющая йога
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+    tuesday:
+      date: '2026-02-24'
+      theme: Тело и энергия
+      slots:
+      - time: 07:30
+        duration: 60
+        specialist: fitness-trainer
+        topic: Базовые силовые упражнения
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 45
+        specialist: nutritionist
+        topic: Обзор питания, корректировка рациона
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '13:00'
+        duration: 60
+        specialist: psychotherapist
+        topic: Глубинная проработка
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 20
+        specialist: meditation-guide
+        topic: Работа с дыханием
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+    wednesday:
+      date: '2026-02-25'
+      theme: Карьера и рост
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Работа с дыханием
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: career-consultant
+        topic: Карьерная стратегия
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: business-trainer
+        topic: Навыки лидерства
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: life-coach
+        topic: Ценности и приоритеты
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога для спины
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+    thursday:
+      date: '2026-02-26'
+      theme: Глубокая работа
+      slots:
+      - time: 08:00
+        duration: 60
+        specialist: personal-growth-trainer
+        topic: Работа с убеждениями
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: 09:30
+        duration: 45
+        specialist: nlp-practitioner
+        topic: Техники NLP
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: mentor
+        topic: Менторская сессия
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '14:30'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Базовые силовые упражнения
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 30
+        specialist: hypnologist
+        topic: Гипно-релаксация
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+    friday:
+      date: '2026-02-27'
+      theme: Интеграция и отношения
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Работа с дыханием
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychosomatologist
+        topic: Связь тело-разум
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 45
+        specialist: sexologist
+        topic: Отношения и близость
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '13:30'
+        duration: 45
+        specialist: lifestyle-consultant
+        topic: Привычки и среда
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Инь-йога
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+    saturday:
+      date: '2026-02-28'
+      theme: Исследование и вдохновение
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: spiritual-guide
+        topic: Духовные практики
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 60
+        specialist: dietitian
+        topic: Meal-prep план
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 45
+        specialist: astro-psychologist
+        topic: Астро-анализ
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: career-orientation
+        topic: Профориентация
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Базовые силовые упражнения
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+    sunday:
+      date: '2026-03-01'
+      theme: Обзор и восстановление
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: meditation-guide
+        topic: Работа с дыханием
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 30
+        specialist: tarot-consultant
+        topic: Расклад на неделю
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 60
+        specialist: weekly-review
+        topic: Еженедельный обзор
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога-нидра
+        week_context: Неделя 2
+        status: planned
+        notes: ''
+- week_number: 3
+  start_date: '2026-03-02'
+  days:
+    monday:
+      date: '2026-03-02'
+      theme: Разум и стратегия
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Сканирование тела
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychologist
+        topic: Когнитивные паттерны и убеждения
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: executive-coach
+        topic: Стратегия достижения
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Вечерняя расслабляющая йога
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+    tuesday:
+      date: '2026-03-03'
+      theme: Тело и энергия
+      slots:
+      - time: 07:30
+        duration: 60
+        specialist: fitness-trainer
+        topic: Кардио и выносливость
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 45
+        specialist: nutritionist
+        topic: Обзор питания, корректировка рациона
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '13:00'
+        duration: 60
+        specialist: psychotherapist
+        topic: Глубинная проработка
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 20
+        specialist: meditation-guide
+        topic: Сканирование тела
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+    wednesday:
+      date: '2026-03-04'
+      theme: Карьера и рост
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Сканирование тела
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: career-consultant
+        topic: Карьерная стратегия
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: business-trainer
+        topic: Навыки лидерства
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: life-coach
+        topic: Постановка целей SMART
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога для спины
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+    thursday:
+      date: '2026-03-05'
+      theme: Глубокая работа
+      slots:
+      - time: 08:00
+        duration: 60
+        specialist: personal-growth-trainer
+        topic: Работа с убеждениями
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: 09:30
+        duration: 45
+        specialist: nlp-practitioner
+        topic: Техники NLP
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: mentor
+        topic: Менторская сессия
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '14:30'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Кардио и выносливость
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 30
+        specialist: hypnologist
+        topic: Гипно-релаксация
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+    friday:
+      date: '2026-03-06'
+      theme: Интеграция и отношения
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Сканирование тела
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychosomatologist
+        topic: Связь тело-разум
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 45
+        specialist: sexologist
+        topic: Отношения и близость
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '13:30'
+        duration: 45
+        specialist: lifestyle-consultant
+        topic: Привычки и среда
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Инь-йога
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+    saturday:
+      date: '2026-03-07'
+      theme: Исследование и вдохновение
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: spiritual-guide
+        topic: Духовные практики
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 60
+        specialist: dietitian
+        topic: Meal-prep план
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 45
+        specialist: astro-psychologist
+        topic: Астро-анализ
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: career-orientation
+        topic: Профориентация
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Кардио и выносливость
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+    sunday:
+      date: '2026-03-08'
+      theme: Обзор и восстановление
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: meditation-guide
+        topic: Сканирование тела
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 30
+        specialist: tarot-consultant
+        topic: Расклад на неделю
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 60
+        specialist: weekly-review
+        topic: Еженедельный обзор
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога-нидра
+        week_context: Неделя 3
+        status: planned
+        notes: ''
+- week_number: 4
+  start_date: '2026-03-09'
+  days:
+    monday:
+      date: '2026-03-09'
+      theme: Разум и стратегия
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Метта-медитация (любящая доброта)
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychologist
+        topic: Самооценка и уверенность
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: executive-coach
+        topic: Навыки делегирования
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Вечерняя расслабляющая йога
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+    tuesday:
+      date: '2026-03-10'
+      theme: Тело и энергия
+      slots:
+      - time: 07:30
+        duration: 60
+        specialist: fitness-trainer
+        topic: Функциональный тренинг
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 45
+        specialist: nutritionist
+        topic: Обзор питания, корректировка рациона
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '13:00'
+        duration: 60
+        specialist: psychotherapist
+        topic: Глубинная проработка
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 20
+        specialist: meditation-guide
+        topic: Метта-медитация (любящая доброта)
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+    wednesday:
+      date: '2026-03-11'
+      theme: Карьера и рост
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Метта-медитация (любящая доброта)
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: career-consultant
+        topic: Карьерная стратегия
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: business-trainer
+        topic: Навыки лидерства
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: life-coach
+        topic: Преодоление препятствий
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога для спины
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+    thursday:
+      date: '2026-03-12'
+      theme: Глубокая работа
+      slots:
+      - time: 08:00
+        duration: 60
+        specialist: personal-growth-trainer
+        topic: Работа с убеждениями
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: 09:30
+        duration: 45
+        specialist: nlp-practitioner
+        topic: Техники NLP
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: mentor
+        topic: Менторская сессия
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '14:30'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Функциональный тренинг
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 30
+        specialist: hypnologist
+        topic: Гипно-релаксация
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+    friday:
+      date: '2026-03-13'
+      theme: Интеграция и отношения
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Метта-медитация (любящая доброта)
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychosomatologist
+        topic: Связь тело-разум
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 45
+        specialist: sexologist
+        topic: Отношения и близость
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '13:30'
+        duration: 45
+        specialist: lifestyle-consultant
+        topic: Привычки и среда
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Инь-йога
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+    saturday:
+      date: '2026-03-14'
+      theme: Исследование и вдохновение
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: spiritual-guide
+        topic: Духовные практики
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 60
+        specialist: dietitian
+        topic: Meal-prep план
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 45
+        specialist: astro-psychologist
+        topic: Астро-анализ
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: career-orientation
+        topic: Профориентация
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Функциональный тренинг
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+    sunday:
+      date: '2026-03-15'
+      theme: Обзор и восстановление
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: meditation-guide
+        topic: Метта-медитация (любящая доброта)
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 30
+        specialist: tarot-consultant
+        topic: Расклад на неделю
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 60
+        specialist: weekly-review
+        topic: Еженедельный обзор
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога-нидра
+        week_context: Неделя 4
+        status: planned
+        notes: ''
+- week_number: 5
+  start_date: '2026-03-16'
+  days:
+    monday:
+      date: '2026-03-16'
+      theme: Разум и стратегия
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Визуализация
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychologist
+        topic: Отношения с окружающими
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: executive-coach
+        topic: Управление временем
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Вечерняя расслабляющая йога
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+    tuesday:
+      date: '2026-03-17'
+      theme: Тело и энергия
+      slots:
+      - time: 07:30
+        duration: 60
+        specialist: fitness-trainer
+        topic: Работа над слабыми зонами
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 45
+        specialist: nutritionist
+        topic: Обзор питания, корректировка рациона
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '13:00'
+        duration: 60
+        specialist: psychotherapist
+        topic: Глубинная проработка
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 20
+        specialist: meditation-guide
+        topic: Визуализация
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+    wednesday:
+      date: '2026-03-18'
+      theme: Карьера и рост
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Визуализация
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: career-consultant
+        topic: Карьерная стратегия
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: business-trainer
+        topic: Навыки лидерства
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: life-coach
+        topic: Формирование привычек
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога для спины
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+    thursday:
+      date: '2026-03-19'
+      theme: Глубокая работа
+      slots:
+      - time: 08:00
+        duration: 60
+        specialist: personal-growth-trainer
+        topic: Работа с убеждениями
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: 09:30
+        duration: 45
+        specialist: nlp-practitioner
+        topic: Техники NLP
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: mentor
+        topic: Менторская сессия
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '14:30'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Работа над слабыми зонами
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 30
+        specialist: hypnologist
+        topic: Гипно-релаксация
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+    friday:
+      date: '2026-03-20'
+      theme: Интеграция и отношения
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Визуализация
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychosomatologist
+        topic: Связь тело-разум
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 45
+        specialist: sexologist
+        topic: Отношения и близость
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '13:30'
+        duration: 45
+        specialist: lifestyle-consultant
+        topic: Привычки и среда
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Инь-йога
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+    saturday:
+      date: '2026-03-21'
+      theme: Исследование и вдохновение
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: spiritual-guide
+        topic: Духовные практики
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 60
+        specialist: dietitian
+        topic: Meal-prep план
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 45
+        specialist: astro-psychologist
+        topic: Астро-анализ
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: career-orientation
+        topic: Профориентация
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Работа над слабыми зонами
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+    sunday:
+      date: '2026-03-22'
+      theme: Обзор и восстановление
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: meditation-guide
+        topic: Визуализация
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 30
+        specialist: tarot-consultant
+        topic: Расклад на неделю
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 60
+        specialist: weekly-review
+        topic: Еженедельный обзор
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога-нидра
+        week_context: Неделя 5
+        status: planned
+        notes: ''
+- week_number: 6
+  start_date: '2026-03-23'
+  days:
+    monday:
+      date: '2026-03-23'
+      theme: Разум и стратегия
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Работа с мыслями
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychologist
+        topic: Интеграция и закрепление
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: executive-coach
+        topic: Лидерские качества
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Вечерняя расслабляющая йога
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+    tuesday:
+      date: '2026-03-24'
+      theme: Тело и энергия
+      slots:
+      - time: 07:30
+        duration: 60
+        specialist: fitness-trainer
+        topic: Интенсивная тренировка
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 45
+        specialist: nutritionist
+        topic: Обзор питания, корректировка рациона
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '13:00'
+        duration: 60
+        specialist: psychotherapist
+        topic: Глубинная проработка
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 20
+        specialist: meditation-guide
+        topic: Работа с мыслями
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+    wednesday:
+      date: '2026-03-25'
+      theme: Карьера и рост
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Работа с мыслями
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: career-consultant
+        topic: Карьерная стратегия
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: business-trainer
+        topic: Навыки лидерства
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: life-coach
+        topic: Работа с прокрастинацией
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога для спины
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+    thursday:
+      date: '2026-03-26'
+      theme: Глубокая работа
+      slots:
+      - time: 08:00
+        duration: 60
+        specialist: personal-growth-trainer
+        topic: Работа с убеждениями
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: 09:30
+        duration: 45
+        specialist: nlp-practitioner
+        topic: Техники NLP
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: mentor
+        topic: Менторская сессия
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '14:30'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Интенсивная тренировка
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 30
+        specialist: hypnologist
+        topic: Гипно-релаксация
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+    friday:
+      date: '2026-03-27'
+      theme: Интеграция и отношения
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Работа с мыслями
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychosomatologist
+        topic: Связь тело-разум
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 45
+        specialist: sexologist
+        topic: Отношения и близость
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '13:30'
+        duration: 45
+        specialist: lifestyle-consultant
+        topic: Привычки и среда
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Инь-йога
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+    saturday:
+      date: '2026-03-28'
+      theme: Исследование и вдохновение
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: spiritual-guide
+        topic: Духовные практики
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 60
+        specialist: dietitian
+        topic: Meal-prep план
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 45
+        specialist: astro-psychologist
+        topic: Астро-анализ
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: career-orientation
+        topic: Профориентация
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Интенсивная тренировка
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+    sunday:
+      date: '2026-03-29'
+      theme: Обзор и восстановление
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: meditation-guide
+        topic: Работа с мыслями
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 30
+        specialist: tarot-consultant
+        topic: Расклад на неделю
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 60
+        specialist: weekly-review
+        topic: Еженедельный обзор
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога-нидра
+        week_context: Неделя 6
+        status: planned
+        notes: ''
+- week_number: 7
+  start_date: '2026-03-30'
+  days:
+    monday:
+      date: '2026-03-30'
+      theme: Разум и стратегия
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Глубокая медитация
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychologist
+        topic: Работа с будущим
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: executive-coach
+        topic: Командная работа
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Вечерняя расслабляющая йога
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+    tuesday:
+      date: '2026-03-31'
+      theme: Тело и энергия
+      slots:
+      - time: 07:30
+        duration: 60
+        specialist: fitness-trainer
+        topic: Активное восстановление
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 45
+        specialist: nutritionist
+        topic: Обзор питания, корректировка рациона
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '13:00'
+        duration: 60
+        specialist: psychotherapist
+        topic: Глубинная проработка
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 20
+        specialist: meditation-guide
+        topic: Глубокая медитация
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+    wednesday:
+      date: '2026-04-01'
+      theme: Карьера и рост
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Глубокая медитация
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: career-consultant
+        topic: Карьерная стратегия
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: business-trainer
+        topic: Навыки лидерства
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: life-coach
+        topic: Поиск смысла
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога для спины
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+    thursday:
+      date: '2026-04-02'
+      theme: Глубокая работа
+      slots:
+      - time: 08:00
+        duration: 60
+        specialist: personal-growth-trainer
+        topic: Работа с убеждениями
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: 09:30
+        duration: 45
+        specialist: nlp-practitioner
+        topic: Техники NLP
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: mentor
+        topic: Менторская сессия
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '14:30'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Активное восстановление
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 30
+        specialist: hypnologist
+        topic: Гипно-релаксация
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+    friday:
+      date: '2026-04-03'
+      theme: Интеграция и отношения
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Глубокая медитация
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychosomatologist
+        topic: Связь тело-разум
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 45
+        specialist: sexologist
+        topic: Отношения и близость
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '13:30'
+        duration: 45
+        specialist: lifestyle-consultant
+        topic: Привычки и среда
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Инь-йога
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+    saturday:
+      date: '2026-04-04'
+      theme: Исследование и вдохновение
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: spiritual-guide
+        topic: Духовные практики
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 60
+        specialist: dietitian
+        topic: Meal-prep план
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 45
+        specialist: astro-psychologist
+        topic: Астро-анализ
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: career-orientation
+        topic: Профориентация
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Активное восстановление
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+    sunday:
+      date: '2026-04-05'
+      theme: Обзор и восстановление
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: meditation-guide
+        topic: Глубокая медитация
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 30
+        specialist: tarot-consultant
+        topic: Расклад на неделю
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 60
+        specialist: weekly-review
+        topic: Еженедельный обзор
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога-нидра
+        week_context: Неделя 7
+        status: planned
+        notes: ''
+- week_number: 8
+  start_date: '2026-04-06'
+  days:
+    monday:
+      date: '2026-04-06'
+      theme: Разум и стратегия
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Интегративная практика
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychologist
+        topic: Подведение итогов и план на будущее
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: executive-coach
+        topic: Долгосрочное видение
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Вечерняя расслабляющая йога
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+    tuesday:
+      date: '2026-04-07'
+      theme: Тело и энергия
+      slots:
+      - time: 07:30
+        duration: 60
+        specialist: fitness-trainer
+        topic: Персональный тренировочный план
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 45
+        specialist: nutritionist
+        topic: Обзор питания, корректировка рациона
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '13:00'
+        duration: 60
+        specialist: psychotherapist
+        topic: Глубинная проработка
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 20
+        specialist: meditation-guide
+        topic: Интегративная практика
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+    wednesday:
+      date: '2026-04-08'
+      theme: Карьера и рост
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Интегративная практика
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: career-consultant
+        topic: Карьерная стратегия
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: business-trainer
+        topic: Навыки лидерства
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: life-coach
+        topic: План личностного роста
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '19:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога для спины
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+    thursday:
+      date: '2026-04-09'
+      theme: Глубокая работа
+      slots:
+      - time: 08:00
+        duration: 60
+        specialist: personal-growth-trainer
+        topic: Работа с убеждениями
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: 09:30
+        duration: 45
+        specialist: nlp-practitioner
+        topic: Техники NLP
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 60
+        specialist: mentor
+        topic: Менторская сессия
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '14:30'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Персональный тренировочный план
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '18:00'
+        duration: 30
+        specialist: hypnologist
+        topic: Гипно-релаксация
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+    friday:
+      date: '2026-04-10'
+      theme: Интеграция и отношения
+      slots:
+      - time: 08:00
+        duration: 30
+        specialist: meditation-guide
+        topic: Интегративная практика
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '10:00'
+        duration: 60
+        specialist: psychosomatologist
+        topic: Связь тело-разум
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '12:00'
+        duration: 45
+        specialist: sexologist
+        topic: Отношения и близость
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '13:30'
+        duration: 45
+        specialist: lifestyle-consultant
+        topic: Привычки и среда
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Инь-йога
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+    saturday:
+      date: '2026-04-11'
+      theme: Исследование и вдохновение
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: spiritual-guide
+        topic: Духовные практики
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 60
+        specialist: dietitian
+        topic: Meal-prep план
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 45
+        specialist: astro-psychologist
+        topic: Астро-анализ
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '14:00'
+        duration: 45
+        specialist: career-orientation
+        topic: Профориентация
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 60
+        specialist: fitness-trainer
+        topic: Персональный тренировочный план
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+    sunday:
+      date: '2026-04-12'
+      theme: Обзор и восстановление
+      slots:
+      - time: 09:00
+        duration: 45
+        specialist: meditation-guide
+        topic: Интегративная практика
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '10:30'
+        duration: 30
+        specialist: tarot-consultant
+        topic: Расклад на неделю
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '12:30'
+        duration: 60
+        specialist: weekly-review
+        topic: Еженедельный обзор
+        week_context: Неделя 8
+        status: planned
+        notes: ''
+      - time: '16:00'
+        duration: 30
+        specialist: yoga-instructor
+        topic: Йога-нидра
+        week_context: Неделя 8
+        status: planned
+        notes: ''
