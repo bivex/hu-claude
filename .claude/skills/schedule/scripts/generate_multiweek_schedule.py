@@ -8,6 +8,9 @@ import yaml
 from datetime import datetime, timedelta
 from pathlib import Path
 
+# Загружаем прогрессию тем из внешнего файла
+TOPIC_PROGRESSION_FILE = Path(__file__).parent / 'topic_progression.yaml'
+
 # Базовое расписание с временными смещениями
 BASE_SCHEDULE = {
     'monday': {
@@ -79,66 +82,26 @@ BASE_SCHEDULE = {
     }
 }
 
-# Прогрессия тем по неделям для каждого специалиста
-TOPIC_PROGRESSION = {
-    'psychologist': [
-        'Знакомство и диагностика состояния',
-        'Работа с эмоциями и стрессом',
-        'Когнитивные паттерны и убеждения',
-        'Самооценка и уверенность',
-        'Отношения с окружающими',
-        'Интеграция и закрепление',
-        'Работа с будущим',
-        'Подведение итогов и план на будущее'
-    ],
-    'meditation-guide': [
-        'Основы осознанности',
-        'Работа с дыханием',
-        'Сканирование тела',
-        'Метта-медитация (любящая доброта)',
-        'Визуализация',
-        'Работа с мыслями',
-        'Глубокая медитация',
-        'Интегративная практика'
-    ],
-    'fitness-trainer': [
-        'Оценка физической формы',
-        'Базовые силовые упражнения',
-        'Кардио и выносливость',
-        'Функциональный тренинг',
-        'Работа над слабыми зонами',
-        'Интенсивная тренировка',
-        'Активное восстановление',
-        'Персональный тренировочный план'
-    ],
-    'executive-coach': [
-        'Аудит текущей ситуации',
-        'Определение целей и приоритетов',
-        'Стратегия достижения',
-        'Навыки делегирования',
-        'Управление временем',
-        'Лидерские качества',
-        'Командная работа',
-        'Долгосрочное видение'
-    ],
-    'life-coach': [
-        'Колесо жизненного баланса',
-        'Ценности и приоритеты',
-        'Постановка целей SMART',
-        'Преодоление препятствий',
-        'Формирование привычек',
-        'Работа с прокрастинацией',
-        'Поиск смысла',
-        'План личностного роста'
-    ]
-}
+def load_topic_progression():
+    """Загружает прогрессию тем из внешнего файла"""
+    try:
+        with open(TOPIC_PROGRESSION_FILE, 'r', encoding='utf-8') as f:
+            data = yaml.safe_load(f)
+        return data
+    except FileNotFoundError:
+        print(f"⚠️  Файл прогрессии тем не найден: {TOPIC_PROGRESSION_FILE}")
+        return {}
+    except Exception as e:
+        print(f"⚠️  Ошибка загрузки прогрессии тем: {e}")
+        return {}
 
-def get_progressive_topic(specialist: str, base_topic: str, week_num: int) -> str:
+def get_progressive_topic(specialist: str, base_topic: str, week_num: int, topic_progression: dict) -> str:
     """Получает прогрессирующую тему для специалиста"""
-    if specialist in TOPIC_PROGRESSION:
-        topics = TOPIC_PROGRESSION[specialist]
-        topic_index = (week_num - 1) % len(topics)
-        return topics[topic_index]
+    if specialist in topic_progression:
+        topics_dict = topic_progression[specialist]
+        week_key = f'week_{week_num}'
+        if week_key in topics_dict:
+            return topics_dict[week_key]
     return base_topic
 
 def parse_date_time(date_str: str, time_str: str = "08:00") -> datetime:
@@ -166,7 +129,10 @@ def parse_date_time(date_str: str, time_str: str = "08:00") -> datetime:
 
 def generate_multiweek_schedule(start_date: datetime, num_weeks: int, timezone: str = "Europe/Kiev") -> dict:
     """Генерирует расписание на несколько недель"""
-    
+
+    # Загружаем прогрессию тем
+    topic_progression = load_topic_progression()
+
     schedule = {
         'meta': {
             'owner': 'user',
@@ -177,34 +143,34 @@ def generate_multiweek_schedule(start_date: datetime, num_weeks: int, timezone: 
         },
         'weeks': []
     }
-    
+
     days_order = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
-    
+
     for week_num in range(1, num_weeks + 1):
         week_data = {
             'week_number': week_num,
             'start_date': (start_date + timedelta(weeks=week_num-1)).strftime('%Y-%m-%d'),
             'days': {}
         }
-        
+
         for day_index, day_name in enumerate(days_order):
             current_date = start_date + timedelta(weeks=week_num-1, days=day_index)
             day_template = BASE_SCHEDULE[day_name]
-            
+
             day_data = {
                 'date': current_date.strftime('%Y-%m-%d'),
                 'theme': day_template['theme'],
                 'slots': []
             }
-            
+
             for slot_template in day_template['slots']:
                 slot_time = start_date + timedelta(minutes=slot_template['time_offset'])
-                
+
                 # Получаем прогрессирующую тему
                 specialist = slot_template['specialist']
                 base_topic = slot_template['topic']
-                progressive_topic = get_progressive_topic(specialist, base_topic, week_num)
-                
+                progressive_topic = get_progressive_topic(specialist, base_topic, week_num, topic_progression)
+
                 slot = {
                     'time': slot_time.strftime('%H:%M'),
                     'duration': slot_template['duration'],
@@ -214,13 +180,13 @@ def generate_multiweek_schedule(start_date: datetime, num_weeks: int, timezone: 
                     'status': 'planned',
                     'notes': ''
                 }
-                
+
                 day_data['slots'].append(slot)
-            
+
             week_data['days'][day_name] = day_data
-        
+
         schedule['weeks'].append(week_data)
-    
+
     return schedule
 
 def main():
